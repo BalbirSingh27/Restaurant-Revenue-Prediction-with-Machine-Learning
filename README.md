@@ -88,8 +88,7 @@ This project focuses on predicting restaurant revenue using a variety of regress
 
 ## 👤 About Me
 
-I’m **Balbir Singh**, a data and business analyst passionate about applying machine learning to real-world problems. I hold a Master’s in Business Analytics from ASU and enjoy solving optimization and forecasting problems with Python, SQL, and AI tools.
-
+I’m **Balbir Singh**, a data and business analyst passionate about applying machine learning to real-world problems
 ---
 
 ## 📌 Acknowledgment
